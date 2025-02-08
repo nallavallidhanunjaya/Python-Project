@@ -1,6 +1,0 @@
-2025-02-04 15:44:12,965 - INFO - Starting job scraping...
-2025-02-04 15:44:12,965 - INFO - ====== WebDriver manager ======
-2025-02-04 15:44:19,201 - INFO - Get LATEST chromedriver version for google-chrome
-2025-02-04 15:45:43,478 - INFO - Get LATEST chromedriver version for google-chrome
-2025-02-04 15:47:07,678 - INFO - Driver [C:\Users\nalla\.wdm\drivers\chromedriver\win64\132.0.6834.159\chromedriver-win32/chromedriver.exe] found in cache
-2025-02-04 15:47:24,131 - INFO - Scraping completed successfully!

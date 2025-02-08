@@ -1,9 +1,0 @@
-selenium
-webdriver-manager
-pandas
-numpy
-beautifulsoup4
-requests
-lxml
-email
-boto3
