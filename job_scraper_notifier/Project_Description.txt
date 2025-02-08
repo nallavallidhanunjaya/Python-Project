@@ -1,0 +1,12 @@
+1. Job_Scraper_notifier
+
+AIM - To identify the latest job opening available on various platforms like linkedin, indeed etc...
+
+Steps:
+1. Get the URL of the Indeed site and understood the various parameter of html pages like - Title, Location, Company
+
+2. Create a scraper python file that fetches the data [Title, Location, Company] and store in DataFrame and return to one CSV file called - job_listing.csv. This CSV file consists all the available jobs across all pages of indeed platform.
+
+3. But we require only the top five jobs so we have to filter only top five jobs.
+
+4. Create data_processing.py file which takes the input of job_listing.csv file and return the remote_jobs.csv file which consists only the top 5 jobs of the platform

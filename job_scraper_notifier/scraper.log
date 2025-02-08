@@ -1,0 +1,18 @@
+2025-02-04 15:44:12,965 - INFO - Starting job scraping...
+2025-02-04 15:44:12,965 - INFO - ====== WebDriver manager ======
+2025-02-04 15:44:19,201 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-04 15:45:43,478 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-04 15:47:07,678 - INFO - Driver [C:\Users\nalla\.wdm\drivers\chromedriver\win64\132.0.6834.159\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-04 15:47:24,131 - INFO - Scraping completed successfully!
+2025-02-07 18:29:56,550 - INFO - Starting job scraping...
+2025-02-07 18:29:56,553 - INFO - ====== WebDriver manager ======
+2025-02-07 18:30:08,972 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 18:31:33,320 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 18:32:57,499 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 18:35:45,915 - INFO - WebDriver version 132.0.6834.159 selected
+2025-02-07 18:35:45,925 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win32/chromedriver-win32.zip
+2025-02-07 18:35:45,925 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win32/chromedriver-win32.zip
+2025-02-07 18:35:46,101 - INFO - Driver downloading response is 200
+2025-02-07 18:35:46,768 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 18:37:11,138 - INFO - Driver has been saved in cache [C:\Users\nalla\.wdm\drivers\chromedriver\win64\132.0.6834.159]
+2025-02-07 18:37:33,630 - INFO - Scraping completed successfully!
