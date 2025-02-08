@@ -1,0 +1,33 @@
+Command: 
+	git config --global user.name "Dhanunjaya Nallavalli"
+Command: 
+	git config --global user.email "nallavallidhanunjaya02@gmail.com"
+
+Command: 
+	git init
+
+Command: 
+	git add .
+
+Command: 
+	git commit -m "Message"
+
+Command: 
+	git remote add origin https://github.com/nallavallidhanunjaya/Python-Project.git
+
+Command: 
+	git push -u origin master
+
+1. Pull Changes from the Remote Repository
+You need to pull the remote changes first, even if you're not planning to merge them immediately. This will fetch the changes from the remote and update your local branch.
+
+Run the following command to fetch the remote changes and merge them into your local branch:
+
+Command: 
+	git pull origin master --rebase
+This will pull the changes from the remote master branch and rebase your local commits on top of the fetched changes. If you have any conflicts, Git will prompt you to resolve them manually.
+
+If you're using main as your default branch, replace master with main:
+
+Command: 
+	git pull origin main --rebase
